@@ -1,0 +1,15 @@
+svg {
+    fill: #fa9600;
+    width: 24px; 
+    height: 24px; 
+}
+.background-circle {
+    background-color: rgb(249, 248, 248);
+    border-radius: 50%;
+    border: none;
+    width: 60px;
+    height: 60px;
+}
+#my-hr {
+    width: 20% ;
+}
