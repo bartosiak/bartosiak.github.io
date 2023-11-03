@@ -1,5 +1,7 @@
 .accordion-button{
     display:block;
+    background-color: rgb(240, 239, 239);
+    border: 1px solid lightgray
 }
 
 .accordion {
@@ -7,10 +9,6 @@
     
 }
 
-.accordion-button {
-    background-color: rgb(240, 239, 239);
-    border: 1px solid lightgray
-}
 hr {
     width: 70px;
 }
