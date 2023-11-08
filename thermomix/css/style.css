@@ -1,0 +1,63 @@
+* {
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    background-color: rgb(245, 247, 248);
+}
+section {
+    padding: 50px 0;
+}
+span {
+    font-size: 1.25em;
+}
+#padding {
+    padding: 3em;
+}
+#btn-phnone-number {
+    width: 300px;
+    height: 80px;
+}
+/* h3 {
+    font-weight: 900;
+    font-size: 1.875em;
+}
+.spacing-font {
+    padding: 30px 100px ;
+    font-size: 1.5em;
+} */
+
+h1 {
+    font-size: 4em!important;
+}
+.navbar-fluid {
+    min-height: 50px;
+    margin: 0 0px;
+}
+
+a {
+    margin-left: 8px;
+}
+.bg-on:hover {
+    background-color: rgb(2, 160, 2);
+    color: white!important;
+    
+}
+ul{
+    list-style: none;
+}
+.custom-size {
+    width: 75%; /* Ustal dowolną szerokość */
+    /* Ustal dowolną wysokość */
+}
+.color {
+    background-color: blue;
+    color: red;
+}
+
+.custom-color {
+    color: rgb(2, 160, 2);
+    
+    font-size: 2.5em;
+    
+}
+
